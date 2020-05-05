@@ -1,0 +1,26 @@
+Overview: 
+This particular app will allow users to track on a high scale level their migraine/headaches and the severity.  
+It will also track if the user missed an event or took any medication due to their migraine/headaches.
+
+This idea came from the fact that my neurologist gives me paper copies of a migraine log to fill out and return to him every 3 months.
+I haven't found any app that has the simplicity of what he wants recorded.  It would be easier for users to record on their phone than 
+on paper and then email to him.
+
+Features: 
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Create Post: Users will be able to create new blog posts when logged in. New posts will appear in the user’s profile.
+Feature 3?
+
+Technologies: 
+JavaScript
+BootStrap
+?
+
+What you’ll have to learn: 
+Continue to enrich my JavaScript knowledge.  Figure out how to create a monthly grid of data for reporting.
+Would like to have the ability to share the data either via printing or emailing, so the user can share with their doctor.
+
+Project Tracker: 
+https://trello.com/create-first-board#a38f1f94-b543-459f-bc1f-bce46b81272e
+
+
