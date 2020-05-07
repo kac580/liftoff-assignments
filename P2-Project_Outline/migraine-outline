@@ -8,7 +8,8 @@ on paper and then email to him.
 
 Features: 
 User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-Create Post: Users will be able to create new blog posts when logged in. New posts will appear in the user’s profile.
+Create Post: Users will be able to add comments for the day, to offer feedback for the doctor on why a day went bad. 
+New posts will appear in the user’s profile.
 Feature 3?
 
 Technologies: 
